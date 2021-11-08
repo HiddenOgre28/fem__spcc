@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Repository](https://github.com/HiddenOgre28/fem__spcc.git)
-- Live Site URL: [Netify](https://your-live-site-url.com)
+- Live Site URL: [Netify](https://sharp-banach-d33429.netlify.app/)
 
 ## My process
 First, I modified the index.html file and gave the text inside it the structure of a card. Then, I styled the card in CSS by using Sass and looking at the designs provided by Frontend Mentor in the design folder.
